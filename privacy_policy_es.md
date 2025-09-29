@@ -1,5 +1,5 @@
 
-política de privacidad
+Política de privacidad
 Esta política de privacidad se aplica a la aplicación Mis apps inspector (en adelante, la "Aplicación") para dispositivos móviles, creada por Enrique Aguirre (en adelante, el "Proveedor de Servicios") como servicio gratuito. Este servicio está diseñado para usarse "tal cual".
 
 
@@ -10,12 +10,12 @@ La dirección de protocolo de Internet de su dispositivo (por ejemplo, direcció
 Las páginas de la Aplicación que visita, la hora y fecha de su visita, el tiempo que pasa en esas páginas
 El tiempo dedicado a la Aplicación
 El sistema operativo que utilizas en tu dispositivo móvil
-* Identificadores de publicidad (por ejemplo, el ID de publicidad de Google)
-
 La Aplicación no recopila información precisa sobre la ubicación de su dispositivo móvil.
-
-
-El Proveedor de Servicios podrá utilizar la información proporcionada por usted para contactarlo de vez en cuando y brindarle información importante, avisos requeridos y promociones de marketing.
+El Proveedor de Servicios podrá utilizar el email en caso de que el usuario se comunique con este.
+La recopilación de los siguientes datos es llevada a cabo por los proveedores de servicios de publicidad (Google AdMob) con el fin exclusivo de servir anuncios segmentados:
+Dirección de protocolo de Internet de su dispositivo (por ejemplo, dirección IP)
+Identificadores de publicidad (por ejemplo, el ID de publicidad de Google)
+Importante: Los usuarios que adquieran la versión "Pro" de la Aplicación, la cual elimina la publicidad, no estarán sujetos a la recolección de datos por parte de Google AdMob. Al no haber anuncios, la Aplicación no inicializa ni comparte datos con el servicio de publicidad, limitando la recolección únicamente a la información esencial de uso descrita a continuación (ej. tiempo dedicado a la Aplicación, sistema operativo), que se utiliza para mejorar la funcionalidad y el rendimiento general de la Aplicación.
 
 
 Acceso de terceros
