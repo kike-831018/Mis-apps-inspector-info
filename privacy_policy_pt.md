@@ -1,7 +1,3 @@
----
-layout: default
-permalink: /privacy_policy_pt.html 
----
 Política de Privacidade
 
 Esta Política de Privacidade aplica-se ao aplicativo Mis apps inspector (doravante, o "Aplicativo") para dispositivos móveis, criado por Enrique Aguirre (doravante, o "Provedor de Serviços") como um serviço gratuito. Este serviço foi projetado para ser usado "como está".
