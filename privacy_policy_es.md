@@ -8,7 +8,7 @@ Recopilación y uso de información
 La Aplicación recopila información cuando la descargas y la usas. Esta información puede incluir información como:
 La dirección de protocolo de Internet de su dispositivo (por ejemplo, dirección IP)
 Las páginas de la Aplicación que visita, la hora y fecha de su visita, el tiempo que pasa en esas páginas
-El tiempo dedicado a la Aplicación
+El tiempo dedicado a la Aplicación.
 El sistema operativo que utilizas en tu dispositivo móvil
 La Aplicación no recopila información precisa sobre la ubicación de su dispositivo móvil.
 El Proveedor de Servicios podrá utilizar el email en caso de que el usuario se comunique con este.
