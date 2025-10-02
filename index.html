@@ -1,48 +1,84 @@
----
-layout: default
----
 <!DOCTYPE html>
+
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Política de Privacidad | Mis apps inspector</title> 
-    <style>
-        body { font-family: sans-serif; padding: 40px; text-align: center; }
-        h1 { color: #333; }
-        .links-container { margin-top: 30px; display: inline-block; }
-        .link-item { margin: 15px 0; }
-        .link-item a { 
-            text-decoration: none; 
-            color: #1a73e8; 
-            font-size: 18px;
-            padding: 10px 20px;
-            border: 1px solid #c8e0ff;
-            border-radius: 8px;
-            display: block;
-            background-color: #f0f8ff;
-        }
-        .link-item a:hover {
-            background-color: #e6f0ff;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Política de Privacidad | Mis apps inspector</title>
+  <style>
+    body {
+      font-family: 'Roboto', sans-serif;
+      padding: 40px;
+      text-align: center;
+      background: #f9fbfd; /* color claro base */
+      color: #333;
+    }
+
+```
+h1 {
+  color: #1a73e8; /* azul principal */
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 16px;
+  color: #555;
+}
+
+.logo {
+  width: 120px;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.links-container {
+  margin-top: 30px;
+  display: inline-block;
+}
+
+.link-item {
+  margin: 15px 0;
+}
+
+.link-item a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 18px;
+  padding: 12px 24px;
+  border-radius: 10px;
+  display: block;
+  font-weight: 500;
+  background: linear-gradient(135deg, #1a73e8, #6a11cb); /* gradiente azul/violeta */
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.link-item a:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+```
+
+  </style>
 </head>
+
 <body>
-    <h1>Selecciona tu Política de Privacidad</h1>
+  <!-- Logo del proyecto -->
+  <img src="assets/images/logo.png" alt="Logo del proyecto" class="logo">
 
-    <p>Por favor, selecciona el idioma de la política de privacidad que deseas leer:</p>
+  <h1>Selecciona tu Política de Privacidad</h1>
 
-    <div class="links-container">
-        <div class="link-item">
-            <a href="privacy_policy_es.md">🇪🇸 Español (Spanish)</a>
-        </div>
-        <div class="link-item">
-            <a href="privacy_policy_en.md">🇺🇸 English (Inglés)</a>
-        </div>
-        <div class="link-item">
-            <a href="privacy_policy_pt.md">🇵🇹 Português (Portuguese)</a>
-        </div>
+  <p>Por favor, selecciona el idioma de la política de privacidad que deseas leer:</p>
+
+  <div class="links-container">
+    <div class="link-item">
+      <a href="privacy_policy_es.md">🇪🇸 Español</a>
     </div>
-    <script src="script.js"></script>
+    <div class="link-item">
+      <a href="privacy_policy_en.md">🇺🇸 English</a>
+    </div>
+    <div class="link-item">
+      <a href="privacy_policy_pt.md">🇵🇹 Português</a>
+    </div>
+  </div>
 </body>
 </html>
