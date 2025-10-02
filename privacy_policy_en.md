@@ -1,3 +1,6 @@
+---
+layout: default
+---
 Privacy Policy
 
 This Privacy Policy applies to the Mis apps inspector application (hereinafter, the "Application") for mobile devices, created by Enrique Aguirre (hereinafter, the "Service Provider") as a free service. This service is designed to be used "as is".
