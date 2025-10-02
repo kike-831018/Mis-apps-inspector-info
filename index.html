@@ -4,13 +4,14 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Política de Privacidad | Mis apps inspector</title>
-  <link rel="icon" sizes="" href="logo.png" />
+  <link rel="icon" href="logo.png" type="image/png">
   <link rel="stylesheet" href="style.css">
+  <!-- Lottie -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lottie-web/5.12.0/lottie.min.js"></script>
 </head>
-
 <body>
   <div class="container">
-    <img src="logo.svg" alt="Logo del proyecto" class="logo">
+    <div id="lottie-logo" class="logo"></div>
 
     <h1>Selecciona el idioma para leer tu Política de Privacidad</h1>
 
@@ -26,7 +27,17 @@
       </div>
     </div>
   </div>
+
+  <script>
+    // Logo animado Lottie
+    lottie.loadAnimation({
+      container: document.getElementById('lottie-logo'),
+      renderer: 'svg',
+      loop: true,
+      autoplay: true,
+      path: 'logo.json'
+    });
+  </script>
   <script src="script.js"></script>
-  <script src="logo.json"></script>
 </body>
 </html>
