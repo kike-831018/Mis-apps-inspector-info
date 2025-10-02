@@ -1,5 +1,6 @@
 body {
-font-family: 'Segoe UI', Roboto, sans-serif;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+line-height: 1.6;
 margin: 0;
 padding: 0;
 background: linear-gradient(-45deg, #1a73e8, #673ab7, #00bcd4, #00ffff);
@@ -16,9 +17,12 @@ text-align: center;
 }
 
 .container {
-max-width: 800px;
-margin: 0 auto;
-padding: 40px 20px;
+max-width: 850px;
+margin: 40px auto;
+padding: 30px;
+background-color: #ffffff; /* Fondo blanco para el contenido */
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08); /* Sombra sutil */
+border-radius: 8px;
 }
 
 .logo {
@@ -31,12 +35,16 @@ h1 {
 margin-bottom: 20px;
 font-size: 28px;
 font-weight: bold;
+color: #1e88e5; /* Color primario de marca */
+border-bottom: 2px solid #eeeeee;
+padding-bottom: 10px;
 }
 
 h2 {
 margin-top: 30px;
 font-size: 22px;
 font-weight: bold;
+color: #444;
 }
 
 p {
@@ -63,4 +71,12 @@ margin: 0 0 20px 0;
 
 ul li {
 margin: 8px 0;
+font-size: 16px;
+}
+
+.date {
+font-style: italic;
+color: #777;
+margin-top: 20px;
+display: block;
 }
