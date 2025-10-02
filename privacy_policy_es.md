@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 Política de privacidad
 
 Esta política de privacidad se aplica a la aplicación Mis apps inspector (en adelante, la "Aplicación") para dispositivos móviles, creada por Enrique Aguirre (en adelante, el "Proveedor de Servicios") como servicio gratuito. Este servicio está diseñado para usarse "tal cual".
