@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /privacy_policy_en.html 
 ---
 Privacy Policy
 
