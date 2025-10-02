@@ -1,0 +1,9 @@
+# Este archivo configura Jekyll para GitHub Pages
+
+# 🎨 Elige un tema visualmente limpio y moderno
+theme: jekyll-theme-cayman 
+
+# Opciones alternativas: jekyll-theme-minimal, jekyll-theme-slate
+
+# Título de tu sitio (aparece en la parte superior)
+title: Políticas de Privacidad - Mis apps inspector
